@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import dotenv from 'dotenv'
 
 function App() {
   const [user, setUser] = useState(null)
